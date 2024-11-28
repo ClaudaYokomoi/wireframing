@@ -61,7 +61,7 @@ This scenario illustrates how wireframing helped identify and resolve a usabilit
 ## Figma File PNG
 Below is the PNG image of the Figma file for the project, showcasing the high-fidelity design prototype.
 
-![Figma Prototype](figma-file-image.png)
+![Figma Prototype](alx-figma-design.png)
 
 > *Note: This PNG was exported from the Figma design file. You can explore the full design and prototype in the Figma tool.*
 
